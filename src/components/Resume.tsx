@@ -24,7 +24,6 @@ const Resume = () => {
               <p>📞 +91 7383596077</p>
               <p>✉️ catto7383@gmail.com</p>
               <p>🏠 235, shivam residence, kosamba</p>
-              <p>🌐 www.reallycreatic.com</p>
             </div>
           </section>
 
